@@ -1,2 +1,2 @@
 <h3 align="center">👀 Color Regression Project 👀
-<h3 align="center">😭 Ing 😭
+<h3 align="center">😭 END 😭
